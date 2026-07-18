@@ -1,6 +1,6 @@
 # 1:4 DEMUX Using Transmission Gate Logic
 
-A transistor-level 1:4 Demultiplexer designed and verified in CMOS technology, built as part of the Principles of Digital VLSI course (BEC606) at The National Institute of Engineering, Mysuru.
+A transistor-level 1:4 Demultiplexer designed and verified in CMOS technology, built as part of the Principles of Digital VLSI course (BEC606) at The National Institute of Engineering, Mysuru
 
 ## Overview
 
